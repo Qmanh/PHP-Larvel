@@ -11,6 +11,12 @@ Project to build e-commerce website with Laravel framework. It is a website that
 - Customer: Create account, update information,reset password, follow your orders.
 - Admin: manages revenue, products and orders .
 
+## Technical
+
+- Framework: Laravel
+- Database: MySQL
+- front-end: html, css, bootstrap
+
 ## Website interface
 <b>  -Interface for customer:</b>
 
