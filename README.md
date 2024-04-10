@@ -1,59 +1,29 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/54f6c62c-6cb0-417b-86b7-ad204db83995" width="700" alt="Laravel Logo"></a></p>
 
-## About Laravel
+## About Project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Project to build e-commerce website with Laravel framework. It is a website that sells clothes online. The target audience is all customers, so the website is built to be quite friendly and easy to use. Functions available on the website:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Sort products by item.
+- Search for products through the search bar.
+- Filter products by category, by price, by brand.
+- Add more products to the cart.
+- Customer: Create account, update information,reset password, follow your orders.
+- Admin: manages revenue, products and orders .
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Website interface
+<b>Interface for customer:</b>
 
-## Learning Laravel
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/1ec449b5-734b-4dfa-8c9c-3d1faebe0a73" width="700" alt=""></a></p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/c688390f-c48e-4793-a1d7-6843c67acec3" width="700" alt=""></a></p>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/ce823146-b36d-4e20-8b74-7fcd36501765" width="700" alt=""></a></p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/a3922913-f340-4015-b1c6-4eb472a93dfb" width="700" alt=""></a></p>
 
-## Laravel Sponsors
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/4f91eb1e-0422-4a0c-8806-e0ffb996634a" width="700" alt=""></a></p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
