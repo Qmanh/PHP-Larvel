@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+![image](https://github.com/Qmanh/web_ecommerce/assets/87469606/54f6c62c-6cb0-417b-86b7-ad204db83995)
 
 ## About Laravel
 
