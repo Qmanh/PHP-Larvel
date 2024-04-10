@@ -23,7 +23,13 @@ Project to build e-commerce website with Laravel framework. It is a website that
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/a3922913-f340-4015-b1c6-4eb472a93dfb" width="700" alt=""></a></p>
 <br>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/4f91eb1e-0422-4a0c-8806-e0ffb996634a" width="700" alt=""></a></p>
+<br>
 
+<b>  -Interface for admin:</b>
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/019cea62-43f8-46a3-94bc-0f5e710b077d" width="700" alt=""></a></p>
+<br>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/b198f4d7-dbc3-403a-8603-a4c7433a37d0" width="700" alt=""></a></p>
+<br>
 
 
