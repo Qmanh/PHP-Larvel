@@ -12,7 +12,7 @@ Project to build e-commerce website with Laravel framework. It is a website that
 - Admin: manages revenue, products and orders .
 
 ## Website interface
-<b>Interface for customer:</b>
+<b>$nbsp;-Interface for customer:</b>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Qmanh/web_ecommerce/assets/87469606/1ec449b5-734b-4dfa-8c9c-3d1faebe0a73" width="700" alt=""></a></p>
 
